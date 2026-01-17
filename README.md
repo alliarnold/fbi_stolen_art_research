@@ -1,4 +1,8 @@
-# fbi_stolen_art_research
-GC CUNY Capstone project repo
+# FBI National Stolen Art File:
+## *what was lost and what is missing*
 
-currently private/work in progress
+BY ALLI ARNOLD
+
+<sub>a master’s capstone submitted to the Graduate Faculty in Data Analysis and Visualization in partial fulfillment of the requirements for the degree of Master of Sciences, The City University of New York</sub>
+
+
