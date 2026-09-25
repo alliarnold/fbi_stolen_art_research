@@ -1,11 +1,11 @@
 # FBI National Stolen Art File <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*lost artifacts and missing data*
 
-<sub>a master’s capstone project submitted to the Graduate Faculty in Data Analysis and Visualization in partial fulfillment of the requirements for the degree of Master of Sciences, The City University of New York</sub>
+<sub>A master’s capstone project submitted to the Graduate Faculty in Data Analysis and Visualization in partial fulfillment of the requirements for the degree of Master of Science, The City University of New York</sub>
 <br>
 
 <p align="center">
   <a href="https://artcrimes.fbi.gov/">
-    <img src="White Paper/Source Records/Images/1.1_FBI_NSAF_WebHeader.png" alt="npm version"/>
+    <img src="White Paper/Source Records/Images/1.1_FBI_NSAF_WebHeader.png" alt="npm version" width="200"/>
   </a>
 </p>
 
