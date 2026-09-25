@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://artcrimes.fbi.gov/">
-    <img src="white paper/white paper sources/Images/FBI_NSAF_WebHeader.png" alt="npm version"/>
+    <img src="White Paper/Source Records/Images/1.1_FBI_NSAF_WebHeader.png" alt="npm version"/>
   </a>
 </p>
 
